@@ -43,7 +43,7 @@ Try a [Markdown tutorial](https://www.markdowntutorial.com/).  This document is 
 ### How to format your assignment text
 You may have guessed it... we want you to include all the components listed above so the document is nicely-formatted when viewed on GitHub:
 - the title of the document - use the `# ` code in Markdown to indicate the title
-- some intro text describing the purpose of the document - put line breaks before and after any text ot create a paragraph in Markdown
+- some intro text describing the purpose of the document - put line breaks before and after any text to create a paragraph in Markdown
 - two subheadings - one for each contemporary issue discussed in the document - use the `## ` code to indicate subheadings in Markdown
 - a link to an article about each contemporary issue - put these below each subheading using a code such as `[The link text you see on the web page](https://the.website.you.want.it.to.link.to)` to indicate a link in Markdown
 - at least two paragraphs of body text containing your personal response to each articles you linked to - put these below each subheading.
